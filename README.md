@@ -7,7 +7,7 @@ This project demonstrates CRUD operations with client-side storage using **Local
 
 ## 🔗 Live Repository
 
-👉 https://github.com/XXXXXX/student-management-system
+👉 https://github.com/Logicboy78/student-management-system
 
 ---
 
